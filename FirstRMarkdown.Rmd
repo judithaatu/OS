@@ -6,6 +6,6 @@ output: html_document
 How does this work?
 
 ```{r}
-
+15*21
 ```
 
